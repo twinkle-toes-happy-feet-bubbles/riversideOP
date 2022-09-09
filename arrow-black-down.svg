@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="28.87" height="92.76" viewBox="0 0 28.87 92.76">
-  <g id="Group_323" data-name="Group 323" transform="translate(0.168 92.734) rotate(-90)">
-    <path id="Path_12" data-name="Path 12" d="M285.988,205.767H193.5a22.668,22.668,0,0,0,14.759-6.4,21.386,21.386,0,0,0,4.92-7.871" transform="translate(-193.5 -191.5)" fill="none" stroke="#151413" stroke-miterlimit="10" stroke-width="1"/>
-    <path id="Path_13" data-name="Path 13" d="M285.488,220.5H193a22.668,22.668,0,0,1,14.759,6.4,21.386,21.386,0,0,1,4.92,7.871" transform="translate(-192.754 -206.233)" fill="none" stroke="#151413" stroke-miterlimit="10" stroke-width="1"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="28.87" height="92.76" viewBox="0 0 28.87 92.76"><g id="Group_323" data-name="Group 323" transform="translate(0.168 92.734) rotate(-90)"><path id="Path_12" fill="none" stroke="#151413" stroke-miterlimit="10" stroke-width="1" d="M285.988,205.767H193.5a22.668,22.668,0,0,0,14.759-6.4,21.386,21.386,0,0,0,4.92-7.871" data-name="Path 12" transform="translate(-193.5 -191.5)"/><path id="Path_13" fill="none" stroke="#151413" stroke-miterlimit="10" stroke-width="1" d="M285.488,220.5H193a22.668,22.668,0,0,1,14.759,6.4,21.386,21.386,0,0,1,4.92,7.871" data-name="Path 13" transform="translate(-192.754 -206.233)"/></g></svg>
